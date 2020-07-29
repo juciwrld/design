@@ -1,0 +1,42 @@
+.demo1{
+    background-color: white;
+    height: 80vh;
+}
+.demo2{
+    background-color:rgb(36, 36, 92);
+    height: 900px;
+   
+}
+.footer{
+    background-color: rgb(0, 70, 128);
+    height: 50px;
+    width: 350px;
+   text-align: center;
+   margin: auto;
+
+    
+    
+}
+.row{
+    padding: 0;
+    margin: 0;
+}
+.half-circle{
+    width: 200px;
+    height: 100px;
+    background-color: skyblue;
+    border-top-left-radius: 110px ;
+    border-top-right-radius: 110px;
+    border: 10px solid white;
+    border-bottom: 0;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 25%;
+    
+    
+   
+    
+    
+    
+}
+
